@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BaseDeDatosGriedView
+</name>
+</assembly>
+<members>
+<member name="T:BaseDeDatosGriedView.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BaseDeDatosGriedView.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BaseDeDatosGriedView.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:BaseDeDatosGriedView.Class_SQL.Fx_Trae_Dato(System.String,System.String,System.String,System.Boolean,System.Boolean,System.String,System.Boolean)">
+ <summary>
+ Devuelve un valor de un campo en especifico de cualquier base de datos, tanto de Random como Bakapp
+ </summary>
+ <param name="_Tabla">Nombre de tabla</param>
+ <param name="_Campo">Nombre del campo a traer</param>
+ <param name="_Condicion"></param>
+ <param name="_DevNumero">Si devuelve un numero True/False</param>
+ <param name="_MostrarError">Si muestra o no el mensaje de error True/False</param>
+ <param name="_Dato_Default">Dato que se enviara por defecto si no se encuentra el valor o es nulo</param>
+ <param name="_Es_Boolean">Si el campo que devuelve es verdadero o falso... True/False</param>
+ <returns></returns>
+</member>
+</members>
+</doc>

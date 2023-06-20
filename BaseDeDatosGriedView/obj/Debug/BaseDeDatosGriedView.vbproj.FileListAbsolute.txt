@@ -1,0 +1,14 @@
+C:\Users\diego\source\repos\BaseDeDatosGriedView\BaseDeDatosGriedView\bin\Debug\BaseDeDatosGriedView.exe.config
+C:\Users\diego\source\repos\BaseDeDatosGriedView\BaseDeDatosGriedView\bin\Debug\BaseDeDatosGriedView.exe
+C:\Users\diego\source\repos\BaseDeDatosGriedView\BaseDeDatosGriedView\bin\Debug\BaseDeDatosGriedView.pdb
+C:\Users\diego\source\repos\BaseDeDatosGriedView\BaseDeDatosGriedView\bin\Debug\BaseDeDatosGriedView.xml
+C:\Users\diego\source\repos\BaseDeDatosGriedView\BaseDeDatosGriedView\obj\Debug\BaseDeDatosGriedView.vbproj.AssemblyReference.cache
+C:\Users\diego\source\repos\BaseDeDatosGriedView\BaseDeDatosGriedView\obj\Debug\BaseDeDatosGriedView.vbproj.SuggestedBindingRedirects.cache
+C:\Users\diego\source\repos\BaseDeDatosGriedView\BaseDeDatosGriedView\obj\Debug\BaseDeDatosGriedView.Form1.resources
+C:\Users\diego\source\repos\BaseDeDatosGriedView\BaseDeDatosGriedView\obj\Debug\BaseDeDatosGriedView.Form2.resources
+C:\Users\diego\source\repos\BaseDeDatosGriedView\BaseDeDatosGriedView\obj\Debug\BaseDeDatosGriedView.Resources.resources
+C:\Users\diego\source\repos\BaseDeDatosGriedView\BaseDeDatosGriedView\obj\Debug\BaseDeDatosGriedView.vbproj.GenerateResource.cache
+C:\Users\diego\source\repos\BaseDeDatosGriedView\BaseDeDatosGriedView\obj\Debug\BaseDeDatosGriedView.vbproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\BaseDeDatosGriedView\BaseDeDatosGriedView\obj\Debug\BaseDeDatosGriedView.exe
+C:\Users\diego\source\repos\BaseDeDatosGriedView\BaseDeDatosGriedView\obj\Debug\BaseDeDatosGriedView.xml
+C:\Users\diego\source\repos\BaseDeDatosGriedView\BaseDeDatosGriedView\obj\Debug\BaseDeDatosGriedView.pdb
